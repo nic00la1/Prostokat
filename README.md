@@ -8,5 +8,6 @@ Obliczanie pola i obwodu prostokata
 2. Pobierz od uzytkownika wartosci a oraz b
 3. Oblicz obwod prostokata
 4. Oblicz pole prostokata
-5. Wyswietl wynik dla obwodu oraz pola prostokata
-6. Wylacz program
+5. Wyswietl wynik obwodu
+6. Wyswietl wynik pola
+7. Wylacz program
